@@ -10,6 +10,9 @@
 - 许可：MIT
 - Text Domain：`evanphoto`
 
+<img width="1200" height="900" alt="screenshot" src="https://github.com/user-attachments/assets/c77771bd-956e-4e36-812d-d9c3fdfc9b1d" />
+
+
 ## 特性
 
 - **沉浸式黑色画廊**：全黑背景、3:2 缩略图网格 + Hero 展示卡，最大化突出照片本身。

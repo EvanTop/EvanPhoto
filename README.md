@@ -12,6 +12,8 @@
 
 <img width="1200" height="900" alt="screenshot" src="https://github.com/user-attachments/assets/c77771bd-956e-4e36-812d-d9c3fdfc9b1d" />
 
+<img width="1470" height="1074" alt="image" src="https://github.com/user-attachments/assets/aa4a4745-8de4-448f-a3f1-97d15192be4b" />
+
 
 ## 特性
 
